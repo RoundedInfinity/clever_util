@@ -1,11 +1,13 @@
 name: clever_util
 description: A utility dart library that simplifies using many patterns.
 version: 1.0.0
+repository: https://github.com/RoundedInfinity/clever_util
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dev_dependencies:
+  meta: ^1.9.1
   mocktail: ^0.3.0
   test: ^1.19.2
   very_good_analysis: ^5.0.0
